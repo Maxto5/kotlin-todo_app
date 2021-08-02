@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTodo</string>
+    <string name="logo">A logo for the app</string>
+    <string name="list_item">saved item</string>
+    <string name="delete_button">delete button</string>
+    <string name="add_button">add</string>
+    <string name="your_todo_textview">type your todo...</string>
+    <string name="deco_image">simple decorative image</string>
+    <string name="prompt">add your first notes.......</string>
+</resources>
